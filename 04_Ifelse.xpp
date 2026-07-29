@@ -1,0 +1,31 @@
+class Ifelse{
+
+    public static void main(Args_args){
+        
+        // If - else :-
+
+        int age = 19;
+        if(age>=18){
+            info("Eligible");
+        }
+        else{
+            info("Not Eligible");
+        }
+
+        // Nested If :-
+
+        int marks = 75;
+
+        if(marks>=35){
+            if(marks>=75){
+                info("First");
+            }
+            else{
+                info("Pass");
+            }
+        }
+        else{
+            info("Fail");
+        }
+    }
+}
