@@ -1,0 +1,5 @@
+class HelloWord{
+    public static void main(Args_args){
+        info("Hello, World!");
+    }
+}
