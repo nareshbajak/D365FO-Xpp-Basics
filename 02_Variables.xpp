@@ -1,0 +1,12 @@
+class Variables{
+    public static void main(Args_args){
+        int age = 20;   // Integer 
+
+        str name = "Naresh"; // Text
+
+        real Price = 99.99; // Decimal
+
+        boolean isActive = true;
+        
+    }
+}
