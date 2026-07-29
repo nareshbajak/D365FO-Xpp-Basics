@@ -1,0 +1,15 @@
+class Operators{
+
+    public static void main(Args_args){
+       int a = 20;
+       int b = 30;
+
+       int Sum = a+b;
+       int Sub = a-b;
+       int Mul = a*b;
+
+       info("Addition ="+ int2str(Sum));
+       info("Sutraction ="+ int2str(Sub));
+       info("Multiplication ="+ int2str(Mul));
+    }
+}
